@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
-    // 首次提交：输出基础问候
     printf("Hello, Git for Software Engineering!\n");
+    // 第二次提交：新增项目名称打印
+    printf("Project: Git Local Repository Experiment\n");
     return 0;
 }
